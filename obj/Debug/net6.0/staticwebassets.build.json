@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GPkR9MbVODN4yQ4lSDvy5w5WFBAH6ZdupDsESNxoVpo=",
+  "Source": "ReplicandoAPI",
+  "BasePath": "_content/ReplicandoAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
